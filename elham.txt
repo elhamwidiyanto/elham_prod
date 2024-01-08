@@ -2,4 +2,4 @@ ELham Resolusi
 - profilling
 - belajar repository
 - membuat project laravel
-- 
+- membuat portofolio
