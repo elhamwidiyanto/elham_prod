@@ -1,5 +1,7 @@
 ELham Resolusi
 - profilling
+  = portofolio
+  -
 - belajar repository
 - membuat project laravel
 - membuat portofolio
